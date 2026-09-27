@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/dynamic-data-structures-cohen/tree/main/binary-tree-demo">
+  <a href="https://github.com/jerichd4c/dynamic-data-structures/tree/main/binary-tree-demo">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/cpp_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -63,11 +63,11 @@ To get a local copy up and running, follow these simple steps to compile the sou
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/dynamic-data-structures-cohen.git
+   git clone https://github.com/jerichd4c/dynamic-data-structures.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd dynamic-data-structures-cohen/binary-tree-demo
+   cd dynamic-data-structures/binary-tree-demo
    ```
 3. Compile the desired data structure into the `bin/` folder
    ```sh
