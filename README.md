@@ -60,7 +60,7 @@ Each project has its own compile/run instructions — see its individual README 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/dynamic-data-structures-cohen.git
+   git clone https://github.com/jerichd4c/dynamic-data-structures.git
    ```
 2. Open the folder for the project you want to run.
 3. Follow that project's own README to compile and run it.
