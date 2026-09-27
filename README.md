@@ -83,7 +83,7 @@ These are the assignments currently available in the repository:
 
 These are the assignments developed during the course. Each one has its own internal documentation.
 
-### [Kingdom Binary Tree](kingdom-binary-tree/README.md) 🏆 Final Project
+### [Kingdom Binary Tree](kingdom-binary-tree/README.md) — Final Project
 A binary tree implementation for royal family genealogy and succession — automatic king assignment on death, primogeniture and secondary heir rules, and automatic crown transfer for kings over 70.
 * **Features**: CSV import/export, living-heirs succession line, full CRUD on family members.
 * **Documentation**: [Project README](kingdom-binary-tree/README.md)

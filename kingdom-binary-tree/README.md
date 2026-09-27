@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h3 align="center">Kingdom Binary Tree 🏆</h3>
+  <h3 align="center">Kingdom Binary Tree</h3>
 
   <p align="center">
     <strong>Final Project</strong> — a C++ binary tree implementation for managing royal family succession lines
