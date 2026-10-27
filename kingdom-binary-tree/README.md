@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/jerichd4c/dynamic-data-structures/tree/main/kingdom-binary-tree">
-    <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/cpp_logo.svg" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/jerichd4c/logos/main/cpp_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
 
